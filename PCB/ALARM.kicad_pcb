@@ -599,7 +599,7 @@
 			(uuid "82bb36b6-fe0f-4a7e-b2b0-3d4e0ffd9bab")
 		)
 		(embedded_fonts no)
-		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components/SW_Cherry_MX_PCB.step"
+		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components (Not For Print)/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.5 -5.1 0)
 			)
@@ -1007,7 +1007,7 @@
 			(uuid "b72dc6fb-f9b4-439b-a842-f64c11362216")
 		)
 		(embedded_fonts no)
-		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components/SW_Cherry_MX_PCB.step"
+		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components (Not For Print)/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.5 -5.1 0)
 			)
@@ -1299,7 +1299,7 @@
 			(uuid "4764c712-1c24-437f-8a8e-ddd07bf4afbe")
 		)
 		(embedded_fonts no)
-		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components/SW_Cherry_MX_PCB.step"
+		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components (Not For Print)/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.5 -5.1 0)
 			)
@@ -1591,7 +1591,7 @@
 			(uuid "50c4d441-3019-4b9b-90d6-b16614053fc5")
 		)
 		(embedded_fonts no)
-		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components/SW_Cherry_MX_PCB.step"
+		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components (Not For Print)/SW_Cherry_MX_PCB.step"
 			(offset
 				(xyz -2.5 -5.1 0)
 			)
@@ -2825,7 +2825,7 @@
 			(uuid "1953adc3-37ba-442e-8cf2-4dfad5306175")
 		)
 		(embedded_fonts no)
-		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components/Seeed Studio XIAO-ESP32-C3.step"
+		(model "D:/Projects/HackClub/Alarm-Clock/CAD/Components (Not For Print)/Seeed Studio XIAO-ESP32-C3.step"
 			(offset
 				(xyz -1.75 -6 0)
 			)
