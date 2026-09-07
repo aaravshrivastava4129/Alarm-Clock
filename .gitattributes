@@ -1,0 +1,25 @@
+# KiCad files
+*.kicad_pro text eol=lf
+*.kicad_prl text eol=lf
+*.kicad_sch text eol=lf
+*.kicad_pcb text eol=lf
+*.kicad_sym text eol=lf
+*.kicad_mod text eol=lf
+
+# KiCad library tables
+fp-lib-table text eol=lf
+sym-lib-table text eol=lf
+
+# CAD files
+*.step binary
+*.stp binary
+*.stl binary
+
+# Manufacturing files
+*.gbr binary
+*.gm1 binary
+*.drl binary
+*.gko binary
+
+# Archives
+*.zip binary
