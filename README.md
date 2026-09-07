@@ -21,15 +21,15 @@ For this project, I decided to keep the design simple:
 
 **The PCB and enclosure are currently completed. Firmware and the physical build will come next.**
 
-<p style="font-size: 30px; font-weight: bolder;">PCB</p>
+**PCB**
 
 <img style="width:45%;" src="assets/PCB-Front.png"> <img style="width:45%;" src="assets/PCB-Back.png">
 
-<p style="font-size: 30px; font-weight: bolder;">Schematic</p>
+**Schematic**
 
 <img style="width:45%;" src="assets/Schematic.png">
 
-<p style="font-size: 30px; font-weight: bolder;">Enclosure</p>
+**Enclosure**
 
 <img style="width:45%;" src="assets/Enclosure.png">
 
