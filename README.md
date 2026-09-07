@@ -35,3 +35,5 @@ For this project, I decided to keep the design simple:
 
 ---
 
+_**DEVEOPMENT IS UNDER PROGRESS. WAITING FOR COMPONENTS APPROVEL xD**_
+
