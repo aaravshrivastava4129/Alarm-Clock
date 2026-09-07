@@ -1,4 +1,4 @@
-S.No.,Quantity Required,Component Description
+S.No.,Quantity Required,Item Description
 1,1,Custom PCB
 2,1,3d Printed Case (Top + Bottom)
 3,1,Seeed XIAO ESP32C3
@@ -12,4 +12,4 @@ S.No.,Quantity Required,Component Description
 11,4,Through-Hole 1N4148 Diodes
 12,4,M3x8mm Screws
 13,4,M3x16mm Screws
-14,1,Solding Iron
+14,1,Soldering Iron
