@@ -35,5 +35,15 @@ For this project, I decided to keep the design simple:
 
 ---
 
+# AI Uses
+
+AI is used for: 
+- PCB design assistance
+- Circuit troubleshooting
+- CAD/enclosure design guidance
+- Project organization
+
+---
+
 _**DEVEOPMENT IS UNDER PROGRESS. WAITING FOR COMPONENTS APPROVEL xD**_
 
