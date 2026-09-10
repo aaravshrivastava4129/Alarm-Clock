@@ -21,5 +21,8 @@ sym-lib-table text eol=lf
 *.drl binary
 *.gko binary
 
+# Source code
+*.ino text eol=lf
+
 # Archives
 *.zip binary
