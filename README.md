@@ -35,6 +35,14 @@ For this project, I decided to keep the design simple:
 
 ---
 
+# Firmware
+
+Currently, it only have a timer function. On clicking SW1 button it will start timer from '00:00:00'. When SW1 is re-pressed it will stop timer and the total time will remain displayed. When SW1 is re-pressed it will reset and restart the timer.
+
+SW1 press -> Timer start - > SW1 re-pressed -> Timer Stops -> SW1 re-pressed -> Timer reset and restart
+
+---
+
 # AI Uses
 
 AI is used for: 
