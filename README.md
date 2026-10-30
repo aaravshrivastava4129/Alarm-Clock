@@ -19,7 +19,6 @@ For this project, I decided to keep the design simple:
 - Custom PCB
 - Custom 3D printed enclosure
 
-**The PCB and enclosure are currently completed. Firmware and the physical build will come next.**
 
 **PCB**
 
@@ -35,11 +34,28 @@ For this project, I decided to keep the design simple:
 
 ---
 
-# Firmware
+# Controls
 
-Currently, it only have a timer function. On clicking SW1 button it will start timer from '00:00:00'. When SW1 is re-pressed it will stop timer and the total time will remain displayed. When SW1 is re-pressed it will reset and restart the timer.
 
-SW1 press -> Timer start - > SW1 re-pressed -> Timer Stops -> SW1 re-pressed -> Timer reset and restart
+SW1 - Enter time/alarm setting/switch between hour and minute
+
+SW2 - Stop ringing alarm/increase selected value
+
+SW3 - Decrease selected value
+
+SW4 - Switch between Clock and Alarm/save and exit
+
+---
+
+# Hardware
+
+Controller - Seeed Studio XIAO ESP32-C3
+
+Display - 2.25-inch ST7789P3 TFT display
+
+Input - Four mechanical keyboard switches are used as the main controls.
+
+Sound - A passive buzzer connected to the XIAO ESP32-C3 is used for interface feedback and the alarm.
 
 ---
 
@@ -53,5 +69,18 @@ AI is used for:
 
 ---
 
-_**DEVEOPMENT IS UNDER PROGRESS. WAITING FOR COMPONENTS APPROVEL xD**_
+# Development Status
 
+**The design and prototype are completed. The final PCB has been designed and ordered, but the components are currently connected using temporary breadboard wiring because the PCB has not been delivered yet.**
+
+**The final PCB assembly will be completed once the board arrives.**
+
+---
+
+# Working Prototype
+
+<img style="width:45%;" src="assets/prototype_image.jpeg"> <img style="width:45%;" src="assets/enclosurewithtft_prototype_image.jpeg">
+
+<video src="assets/prototype_video.mp4" controls="controls" style="max-width: 50%;"></video>
+
+---
