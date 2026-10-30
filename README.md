@@ -81,6 +81,4 @@ AI is used for:
 
 <img style="width:45%;" src="assets/prototype_image.jpeg"> <img style="width:45%;" src="assets/enclosurewithtft_prototype_image.jpeg">
 
-<video src="https://youtu.be/8oBE6YK9-VI" controls="controls" style="max-width: 50%;"></video>
-
 ---
