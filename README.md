@@ -4,7 +4,27 @@ A custom 4-key alarm clock built around the Seeed XIAO ESP32-C3 and a 2.25 inch 
 
 The idea was to make a small, simple alarm clock with a custom PCB and a 3D printed enclosure instead of putting everything together with loose wires.
 
+Demo -> <a href="https://youtu.be/RYXH7QkYXOU">Final Built</a>
 ---
+
+# I Want To Say Something
+
+Alarm Clock built is completed. I has soldered all components on PCB and placed PCB inside enclosure.
+
+**Since it was my first time to make PCB and 3D print, I did some miscalculation in radius of screw holes so I can't screw PCB and top cover of enclosure in enclosure body. So, I glued PCB and Top cover in body and everything is fixed perfectly. Nothing is loose inside it.**
+
+---
+
+# Final Built
+
+<img style="width:45%;" src="assets/front-view.jpeg"> <img style="width:45%;" src="assets/top-view.jpeg">
+ 
+---
+
+# Physical PCB
+
+<img style="width:45%;" src="assets/PCB-Front(Physical).jpeg"> <img style="width:45%;" src="assets/PCB-Back(Physical).jpeg">
+
 
 # The Idea
 
@@ -14,7 +34,7 @@ For this project, I decided to keep the design simple:
 
 - 4 mechanical keys
 - 2.25 inch TFT display
-- Seeed XIAO ESP32-C3
+- Seeed Studio XIAO ESP32-C3
 - Piezo buzzer
 - Custom PCB
 - Custom 3D printed enclosure
@@ -71,14 +91,6 @@ AI is used for:
 
 # Development Status
 
-**The design and prototype are completed. The final PCB has been designed and ordered, but the components are currently connected using temporary breadboard wiring because the PCB has not been delivered yet.**
-
-**The final PCB assembly will be completed once the board arrives.**
-
----
-
-# Working Prototype
-
-<img style="width:45%;" src="assets/prototype_image.jpeg"> <img style="width:45%;" src="assets/enclosurewithtft_prototype_image.jpeg">
+**Built is completed. Nothing is left.**
 
 ---
